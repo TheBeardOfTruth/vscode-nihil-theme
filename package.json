@@ -2,11 +2,17 @@
     "name": "nihil",
     "displayName": "Nihil",
     "description": "A balanced and neutral dark colour scheme with good contrast, designed for long hours of coding",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "CocaineJohnsson",
     "repository": "https://github.com/CocaineJohnsson/vscode-nihil-theme.git",
+    "categories": ["Other"],
+    "icon": "Images/Icon.png",
+    "galleryBanner": {
+    "color": "#161616",
+    "theme": "dark"
+    },
     "engines": {
-        "vscode": "^1.59.0"
+        "vscode": "^1.58.0"
     },
     "categories": [
         "Themes"
